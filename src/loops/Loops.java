@@ -24,6 +24,7 @@ public class Loops {
             if (i % dimension == 0){
                 System.out.println();
                 System.out.println("lmao");
+                System.out.println("novej")
             }
         }
 
